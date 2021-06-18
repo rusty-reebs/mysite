@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ready, Set, Launch!"
 date:   2021-06-12 18:15:49 +0400
 categories: about

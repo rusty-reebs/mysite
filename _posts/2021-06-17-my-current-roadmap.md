@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "My Current Roadmap"
 categories: 
 ---
@@ -15,4 +15,4 @@ What specialty or niche am I interested in? I'm very interested in:
  
 I feel that this part of the tech industry is just getting started and there will be many employment opportunities in the next decade. So, to branch out after The Odin Project, I want to look at Hardhat, ethers.js, and Solidity.
 
-Hack-a-thons and Game Jams are other ways that I will look to build more skills and network with more developers. Right now, I'm focused on progressing through The Odin Project curriculum to get started. Let's go! 🙌
+Hack-a-thons and Game Jams are other ways that I will look to build more skills and network with more developers. But right now I'm focused on progressing through The Odin Project curriculum. Let's go! 🙌
