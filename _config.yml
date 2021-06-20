@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rusty's Space
-subtitle: "Web Development"
+subtitle: "My Web Development Journey"
 email: rusty_reebs@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rusty's ramblings about learning web development.
@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rusty_reebs
 github_username:  rusty-reebs
 author:
-  name:     "Rusty"
+  name:     "Rusty R"
   avatar:   "/assets/images/profilepicjpg.jpg"
   bio:      "I'm so much cooler online."
   location: "Tbilisi, Georgia"
@@ -47,7 +47,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dirt"
+logo: "/assets/images/masthead.jpeg"
 
 defaults:
   # _posts
@@ -65,6 +66,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+include:
+  - _pages/
 
 
 # Exclude from processing.

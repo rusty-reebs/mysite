@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Russell. I am a self-taught developer from Canada, currently living in Tbilisi, Georgia 🇬🇪. I am following [The Odin Project](https://theodinproject.com) curriculum to learn web development.
+Hi, I'm Russell. I am a self-taught full stack developer from Canada, currently living in Tbilisi, Georgia 🇬🇪. I am following [The Odin Project](https://theodinproject.com) curriculum to learn web development.
 
 My developer career intentions are to:
 
@@ -13,9 +13,9 @@ My developer career intentions are to:
 * contribute to meaningful projects,
 * continuously advance my programming skills and become better every day.
 
-What I bring to the table:
+What you can expect from me:
 
 * dependability,
 * open communication,
-* the ability to compromise,
+* the ability to compromise, and
 * the willingness to learn.
