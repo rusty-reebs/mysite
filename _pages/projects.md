@@ -4,6 +4,6 @@ layout: collection
 permalink: /projects/
 ---
 
-No projects are available to view yet! 
+No projects are available to view yet. 
 
-Stay tuned for some amazing web development projects!
+Don't worry, some amazing web dev projects are coming!
