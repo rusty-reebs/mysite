@@ -1,5 +1,5 @@
 ---
-title:  "Ready, Set, Launch!"
+title:  "Ready, set, launch!"
 date:   2021-06-12 18:15:49 +0400
 categories: about
 ---
