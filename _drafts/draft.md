@@ -4,13 +4,12 @@ title:  "Title"
 categories: 
 ---
 
-My Current Roadmap
+Getting side-tracked
 
-I'm new to web development, but where am I going? Yes, I do have some idea. I'm following [The Odin Project](https://theodinproject.com) curriculum, which focuses on full stack web development. I plan to complete the JavaScript track and projects and have practical skills in JS, HTML, CSS, NodeJS, and React. 
+The world of programming is **big**. It's very easy to question your path and wonder if there's a better alternative. Earlier this week, I began having doubts about learning JavaScript and started looking at Ruby on Rails. I spent a bunch of time reading and listening to podcasts about RoR, wondering about the job prospects, and wondering if it was a better choice for me than JavaScript. The amount of information to sift (or **wade**) through is overwhelming. Ugh.
 
-I'm very interested in Web 3.0, blockchain, dApps, and smart contracts. I feel that this part of the tech industry is just getting started and there will be many employment opportunities in the next decade. So, to branch out after The Odin Project, I want to look at Hardhat, ethers.js, and Solidity.
+But after a couple of days, I ultimately went back to my original intentions for learning web development. And one of them was to work toward employment in the Web 3.0 / dApps / blockchain space. Writing code for that space requires knowledge of JavaScript. So here I am, back to JavaScript, although I didn't really ever leave it. I just wondered... 🤔
 
-Hack-a-thons and Game Jams are other ways that I will look to build more skills and network with more developers. Right now, I'm focused on progressing through The Odin Project curriculum to get started. Cheers!
 
 
 Tales from my programming past

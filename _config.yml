@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rusty's Space
-subtitle: "My Web Development Journey"
+subtitle: "Webdev, life and everything else."
 email: rusty_reebs@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rusty's ramblings about learning web development.
+  Rusty's patch of cyberspace.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rusty_reebs
@@ -30,7 +30,7 @@ github_username:  rusty-reebs
 author:
   name:     "Rusty R"
   avatar:   "/assets/images/rusty1.png"
-  bio:      "*I'm so much cooler online.*"
+  bio:      "*You don't have to do what everyone else is doing. Dare to be different.*"
   location: "Tbilisi, Georgia"
   links:
     - label: "Twitter"
