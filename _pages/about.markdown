@@ -19,3 +19,5 @@ What you can expect from me:
 * open communication,
 * the ability to compromise, and
 * the willingness to learn.
+
+I look forward to connecting with you. 😊
