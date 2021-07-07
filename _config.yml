@@ -18,17 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rusty's Space
+title: "Rusty's Space"
 subtitle: "Webdev, life and everything else."
 email: rusty_reebs@tutanota.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Rusty's patch of cyberspace.
+description: "A blog about web development, JavaScript, and learning to code."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rustys.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rusty_reebs
 github_username:  rusty-reebs
 author:
-  name:     "Rusty R"
+  name:     "Russ Salonen"
   avatar:   "/assets/images/rusty1.png"
   bio:      "*You don't have to do what everyone else is doing. Dare to be different.*"
   location: "Tbilisi, Georgia"
