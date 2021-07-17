@@ -30,7 +30,7 @@ author:
   name:     "Russ Salonen"
   avatar:   "/assets/images/rusty1.png"
   bio:      "*You don't have to do what everyone else is doing. Dare to be different.*"
-  location: "Tbilisi, Georgia"
+  # location: "Tbilisi, Georgia"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -49,7 +49,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 logo: "/assets/images/html.png"
 
 defaults:
