@@ -20,4 +20,4 @@ What you can expect from me:
 * the ability to compromise, and
 * the willingness to learn.
 
-I look forward to connecting with you. 😊
+I look forward to connecting with you. 😊 You can reach me at [russ.salonen@gmail.com](mailto:russ.salonen@gmail.com).

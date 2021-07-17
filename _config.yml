@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Rusty's Space"
+title: "rustys.dev"
 subtitle: "Webdev, life and everything else."
-email: rusty_reebs@tutanota.com
+email: russ.salonen@gmail.com
 description: "A blog about web development, JavaScript, and learning to code."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rustys.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,6 +41,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/russell-salonen-721513216/"
+    
 
 # Build settings
 #theme: minima
