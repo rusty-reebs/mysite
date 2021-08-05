@@ -2,7 +2,28 @@
 title: Projects
 layout: collection
 permalink: /projects/
+gallery:
+ - url: /assets/images/tictactoe1.png
+   image_path: /assets/images/tictactoe1.png
+   alt: "placeholder image 1"
+   title: "Tic Tac Toe Screenshot"
+ - url: /assets/images/tictactoe2.png
+   image_path: /assets/images/tictactoe2.png
+   alt: "placeholder image 2"
+   title: "Tic Tac Toe Screenshot"
 ---
+
+## Tic Tac Toe ❌⭕️❌
+
+Date completed: August 5, 2021  
+See the [live code](https://github.com/rusty-reebs/tic-tac-toe) on my GitHub!  
+Play the game [here](https://rusty-reebs.github.io/tic-tac-toe)!
+- *Written in HTML, CSS, and JavaScript.*
+- *Practiced writing factory functions, methods, module patterns and IIFEs.*
+
+{% include gallery  %}
+
+----
 
 ## Library 📚
 
