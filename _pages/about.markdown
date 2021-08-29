@@ -12,6 +12,8 @@ My developer career intentions are to:
 * be part of a fun and dynamic team,
 * contribute to meaningful projects,
 * continuously advance my programming skills and become better every day.
+  
+----
 
 What you can expect from me:
 
