@@ -21,9 +21,9 @@ Browse the site [here](https://rusty-reebs.github.io/restaurant-page/).
 - *Written in HTML, CSS, and JavaScript.*
 - *Learned to use ES6 modules and webpack to dynamically render pages with JavaScript.*
   
-[![Screenshot](../assets/images/ninas2.png)](https://rusty-reebs.github.io/restaurant-page/)
+[![Screenshot](../assets/images/ninas2.jpg)](https://rusty-reebs.github.io/restaurant-page/)
 
-[![Screenshot](../assets/images/ninas1.png)](https://rusty-reebs.github.io/restaurant-page/)
+[![Screenshot](../assets/images/ninas1.jpg)](https://rusty-reebs.github.io/restaurant-page/)
 
 ----
 
