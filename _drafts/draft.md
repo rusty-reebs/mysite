@@ -4,7 +4,6 @@ title:  "Title"
 categories: 
 ---
 
-🙌 Alright, I'm pretty stoked to be moving past my HTML/CSS/JS Tic-Tac-Toe project! You can play it [here](https://rusty-reebs.github.io/tic-tac-toe) on GitHub. I do have to say that I've developed **a lot** better understanding of all three of these languages since I began coding. Hello, parameters and callback functions?! Next I will be starting with JavaScript modules and using [webpack](https://webpack.js.org) as a bundler. My next project will be a restaurant homepage. I'm thinking delicious Georgian 🇬🇪 food => because I'm in Georgia! Mmmmm, can you say *khinkhali*? 😋 Stay tuned for the link!
-
+I was just reflecting on how much I've learned. Things have been *much* easier now than when I began. 😅 NGL, the first few months were **tough**. But through the projects I've coded, I've gained a much better understanding of concepts like how to pass parameters, invoke functions, and organize code. I took a break from the To-Do List app, (it's going to be **epic** BTW) and I just finished a fun slideshow mini-project. One of the most difficult parts was setting up the timing interval. My plan envisioned a timer to begin on initialization, then to be reset when the user clicked a next, back, or index icon. This was easier said than done! But I figured it out, mostly thanks to perseverence and the docs. You can check it out [here](https://rusty-reebs.github.io/slideshow/). Ciao!
 
 
