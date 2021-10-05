@@ -52,6 +52,9 @@ plugins:
 minimal_mistakes_skin: "air"
 logo: "/assets/images/html.png"
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:
