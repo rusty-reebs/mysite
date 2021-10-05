@@ -19,7 +19,7 @@ See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or
 
 *Written in HTML, CSS, and plain JavaScript. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
 
-[![Screenshot](../assets/images/weather-app2.jpg)](https://rusty-reebs.github.io/weather-app/)  [![Screenshot](../assets/images/weather-app1.jpg)](https://rusty-reebs.github.io/weather-app/)
+[![Screenshot](../assets/images/weather-screenshot1.png)](https://rusty-reebs.github.io/weather-app/)  [![Screenshot](../assets/images/weather-screenshot2.png)](https://rusty-reebs.github.io/weather-app/)
 
 ## Restaurant page ☕️  
 
