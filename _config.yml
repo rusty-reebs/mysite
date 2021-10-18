@@ -24,7 +24,7 @@ email: russ.salonen@gmail.com
 description: "A blog about web development, JavaScript, and learning to code."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rustys.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rusty_reebs
+# twitter_username: rusty_reebs
 github_username: rusty-reebs
 author:
   name: "Russ Salonen"
@@ -32,9 +32,9 @@ author:
   bio: "*You don't have to do what everyone else is doing. Dare to be different.*"
   # location: "Tbilisi, Georgia"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rusty_reebs"
+    #  - label: "Twitter"
+    #    icon: "fab fa-fw fa-twitter-square"
+    #    url: "https://twitter.com/rusty_reebs"
     - label: "GitHub --> check it out!"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rusty-reebs"
