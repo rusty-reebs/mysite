@@ -9,12 +9,12 @@ I've been working on developing the classic game of Battleship in plain JavaScri
 
 The tests are meant to check whether functions are working correctly. For example, if I have a test like this:
 
-```
+~~~javascript
 test("attack is a miss", () => {
   playerOneGameboard.receiveAttack("A1");
   expect(playerOneGameboard.array[0].missedShot).toBe(true);
 });
-```
+~~~
 
 I can see if my code is working properly, without using `console.log`. 
 

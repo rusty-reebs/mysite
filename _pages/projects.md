@@ -12,10 +12,21 @@ gallery:
    alt: "placeholder image 2"
    title: "Tic Tac Toe Screenshot"
 ---
+## Battleship game 🚢
+
+> Date completed: November 2, 2021  
+See the [live code](https://github.com/rusty-reebs/tdd-battleship) on my GitHub! Or play it [here](https://rusty-reebs.github.io/tdd-battleship/).  
+Best viewed on 🖥 desktop.  
+
+*Written in plain JavaScript and CSS. Learned to use test-driven development with Jest. Practiced OOP principles such as the Single Responsibility Principle. (Could use more practice with this! 😅)*  
+
+[![Screenshot](../assets/images/battleship-screenshot.jpg)](https://rusty-reebs.github.io/tdd-battleship/)  
+
 ## Weather app ☀️
 
 > Date completed: October 3, 2021  
-See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or try it out [here](https://rusty-reebs.github.io/weather-app/). It's best viewed on 📱 mobile.
+See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or try it out [here](https://rusty-reebs.github.io/weather-app/).  
+Best viewed on 📱 mobile.
 
 *Written in HTML, CSS, and plain JavaScript. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
 
@@ -25,6 +36,7 @@ See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or
 
 > Date completed: August 17, 2021  
 See the [live code](https://github.com/rusty-reebs/restaurant-page) on my GitHub! Browse the site [here](https://rusty-reebs.github.io/restaurant-page/).  
+Best viewed on 🖥 desktop.  
 
 *Written in HTML, CSS, and plain JavaScript.*
 *Learned to use ES6 modules and webpack to dynamically render pages with JavaScript.*
@@ -61,5 +73,3 @@ See the [live code](https://github.com/rusty-reebs/library) on my Github! Try it
 [![Screenshot](/assets/images/librarypopup-thumbnail.png)](https://rusty-reebs.github.io/library/)
 
 ---
-
-**More super awesome projects coming soon!** 🚀
