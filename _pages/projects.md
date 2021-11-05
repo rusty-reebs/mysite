@@ -12,6 +12,18 @@ gallery:
    alt: "placeholder image 2"
    title: "Tic Tac Toe Screenshot"
 ---
+## To-Do List app ✅
+
+> Date completed: November 5, 2021  
+See the [live code](https://github.com/rusty-reebs/to-do-list) on my GitHub! Or try it [here](https://rusty-reebs.github.io/to-do-list/).  
+Best viewed on 🖥 desktop.  
+
+*Written in plain JavaScript and CSS. Practiced using and manipulating dynamically-created objects in JavaScript. This was a complex project with a lot of moving parts! Also had to manage event listeners and bubbling.*
+
+[![Screenshot](../assets/images/to-do-list-screenshot.jpg)](https://rusty-reebs.github.io/to-do-list/)  
+
+[![Screenshot](../assets/images/to-do-list-screenshot2.jpg)](https://rusty-reebs.github.io/to-do-list/)  
+
 ## Battleship game 🚢
 
 > Date completed: November 2, 2021  
@@ -72,4 +84,3 @@ See the [live code](https://github.com/rusty-reebs/library) on my Github! Try it
 
 [![Screenshot](/assets/images/librarypopup-thumbnail.png)](https://rusty-reebs.github.io/library/)
 
----
