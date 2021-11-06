@@ -24,6 +24,8 @@ Best viewed on 🖥 desktop.
 
 [![Screenshot](../assets/images/to-do-list-screenshot2.jpg)](https://rusty-reebs.github.io/to-do-list/)  
 
+-----
+
 ## Battleship game 🚢
 
 > Date completed: November 2, 2021  
@@ -34,6 +36,8 @@ Best viewed on 🖥 desktop.
 
 [![Screenshot](../assets/images/battleship-screenshot.jpg)](https://rusty-reebs.github.io/tdd-battleship/)  
 
+-----
+
 ## Weather app ☀️
 
 > Date completed: October 3, 2021  
@@ -43,6 +47,8 @@ Best viewed on 📱 mobile.
 *Written in HTML, CSS, and plain JavaScript. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
 
 [![Screenshot](../assets/images/weather-screenshot1.png)](https://rusty-reebs.github.io/weather-app/)  [![Screenshot](../assets/images/weather-screenshot2.png)](https://rusty-reebs.github.io/weather-app/)
+
+-----
 
 ## Restaurant page ☕️  
 
@@ -69,7 +75,7 @@ See the [live code](https://github.com/rusty-reebs/tic-tac-toe) on my GitHub! Pl
 
 {% include gallery  %}
 
-----
+-----
 
 ## Library 📚
 

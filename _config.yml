@@ -49,7 +49,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 logo: "/assets/images/html.png"
 
 atom_feed:
