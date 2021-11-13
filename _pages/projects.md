@@ -18,7 +18,7 @@ gallery:
 See the [live code](https://github.com/rusty-reebs/to-do-list) on my GitHub! Or try it [here](https://rusty-reebs.github.io/to-do-list/).  
 Best viewed on 🖥 desktop.  
 
-*Written in plain JavaScript and CSS. Practiced using and manipulating dynamically-created objects in JavaScript. This was a complex project with a lot of moving parts! Also had to manage event listeners and bubbling.*
+*Written in plain JavaScript and plain CSS. Practiced using and manipulating dynamically-created objects in JavaScript. This was a complex project with a lot of moving parts! Also had to manage event listeners and bubbling.*
 
 [![Screenshot](../assets/images/to-do-list-screenshot.jpg)](https://rusty-reebs.github.io/to-do-list/)  
 
@@ -32,7 +32,7 @@ Best viewed on 🖥 desktop.
 See the [live code](https://github.com/rusty-reebs/tdd-battleship) on my GitHub! Or play it [here](https://rusty-reebs.github.io/tdd-battleship/).  
 Best viewed on 🖥 desktop.  
 
-*Written in plain JavaScript and CSS. Learned to use test-driven development with Jest. Practiced OOP principles such as the Single Responsibility Principle. (Could use more practice with this! 😅)*  
+*Written in plain JavaScript and plain CSS. Learned to use test-driven development with Jest. Practiced OOP principles such as the Single Responsibility Principle. (Could use more practice with this! 😅)*  
 
 [![Screenshot](../assets/images/battleship-screenshot.jpg)](https://rusty-reebs.github.io/tdd-battleship/)  
 
@@ -44,7 +44,7 @@ Best viewed on 🖥 desktop.
 See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or try it out [here](https://rusty-reebs.github.io/weather-app/).  
 Best viewed on 📱 mobile.
 
-*Written in HTML, CSS, and plain JavaScript. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
+*Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
 
 [![Screenshot](../assets/images/weather-screenshot1.png)](https://rusty-reebs.github.io/weather-app/)  [![Screenshot](../assets/images/weather-screenshot2.png)](https://rusty-reebs.github.io/weather-app/)
 

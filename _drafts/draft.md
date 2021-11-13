@@ -4,24 +4,18 @@ title:  "Title"
 categories: 
 ---
 
-Unit testing with Jest
+Reactions to React
 
-I've been working on developing the classic game of Battleship in plain JavaScript. Part of the assignment (which you can read about here), is using Test-Driven Development (TDD) as a tool to write the code.
+I've been learning ⚛️ [ReactJS](https://reactjs.org) recently. It's pretty cool, I like the idea of components and their reusability. Things start to come together fast! It's a nice change from all of the intensive DOM manipulation in plain JavaScript. (Re: my [To-Do List app 😅](https://github.com/rusty-reebs/to-do-list)).  
 
-> ☝️ Write a test, write the code to pass the test.
+*Although*, it did take me a bit to wrap my head around using props and state, especially with class components and `this`. I've found using functional components to be a lot more straightforward and intuitive. I'm glad that I have good JavaScript and HTML bases to build from, otherwise I think I'd be up the creek.  
 
-The tests are meant to check whether functions are working correctly. For example, if I have a test like this:
+Tomorrow I'll start on another project for my portfolio, an online store with a shopping cart, written in React.
 
-`test("attack is a miss", () => {
-  playerOneGameboard.receiveAttack("A1");
-  expect(playerOneGameboard.array[0].missedShot).toBe(true);
-});`
 
-I can see if my code is working properly, without using `console.log`. 
 
-The benefits of TDD are many, but the ones I've noticed the most in my own code are (1) improving design (tightly coupled vs loosely coupled!) and (2) encouraging refactoring. Plus, it's been (3) fun to write these simple tests and then make them pass.
+Today my a-ha! moment was learning that when we pass state as props, it literally is referenced as props in the code.
 
-And with a game like Battleship, there are many conditionals, and thus, many tests!
 
 
 
