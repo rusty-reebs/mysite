@@ -12,6 +12,21 @@ gallery:
    alt: "placeholder image 2"
    title: "Tic Tac Toe Screenshot"
 ---
+
+## Shopping cart app 🛒
+
+> Date completed: November 23, 2021  
+See the [live code](https://github.com/rusty-reebs/shopping-cart/) on my GitHub! You can try it [here](https://rusty-reebs.github.io/shopping-cart/).  
+Optimized for 📱 mobile and 🖥 desktop!  
+
+*Written in ⚛️ React.js and plain CSS. Practiced using `react-router-dom`, functional components, and hooks. I had a lot of fun coding this project! One of the biggest challenges was thinking about how to organize and manage objects that are in state.*  
+
+[![Screenshot](../assets/images/dune-desktop-store.jpg)](https://rusty-reebs.github.io/shopping-cart/)  
+
+[![Screenshot](../assets/images/dune-desktop-cart.jpg)](https://rusty-reebs.github.io/shopping-cart/)  
+
+-----
+
 ## To-Do List app ✅
 
 > Date completed: November 5, 2021  
@@ -42,11 +57,11 @@ Best viewed on 🖥 desktop.
 
 > Date completed: October 3, 2021  
 See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or try it out [here](https://rusty-reebs.github.io/weather-app/).  
-Best viewed on 📱 mobile.
+Optimized for 📱 mobile and 🖥 desktop.
 
 *Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.*  
 
-[![Screenshot](../assets/images/weather-screenshot1.png)](https://rusty-reebs.github.io/weather-app/)  [![Screenshot](../assets/images/weather-screenshot2.png)](https://rusty-reebs.github.io/weather-app/)
+[![Screenshot](../assets/images/weather-screenshot1.png)](https://rusty-reebs.github.io/weather-app/)&nbsp;&nbsp;[![Screenshot](../assets/images/weather-screenshot2.png)](https://rusty-reebs.github.io/weather-app/)
 
 -----
 
