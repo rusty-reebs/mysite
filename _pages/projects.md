@@ -15,6 +15,8 @@ gallery:
 
 ## Shopping cart app 🛒
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 > Date completed: November 23, 2021  
 See the [live code](https://github.com/rusty-reebs/shopping-cart/) on my GitHub! You can try it [here](https://rusty-reebs.github.io/shopping-cart/).  
 Optimized for 📱 mobile and 🖥 desktop!  
@@ -28,6 +30,8 @@ Optimized for 📱 mobile and 🖥 desktop!
 -----
 
 ## To-Do List app ✅
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 5, 2021  
 See the [live code](https://github.com/rusty-reebs/to-do-list) on my GitHub! Or try it [here](https://rusty-reebs.github.io/to-do-list/).  
@@ -43,6 +47,8 @@ Best viewed on 🖥 desktop.
 
 ## Battleship game 🚢
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 > Date completed: November 2, 2021  
 See the [live code](https://github.com/rusty-reebs/tdd-battleship) on my GitHub! Or play it [here](https://rusty-reebs.github.io/tdd-battleship/).  
 Best viewed on 🖥 desktop.  
@@ -55,6 +61,8 @@ Best viewed on 🖥 desktop.
 
 ## Weather app ☀️
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 > Date completed: October 3, 2021  
 See the [live code](https://github.com/rusty-reebs/weather-app) on my GitHub! Or try it out [here](https://rusty-reebs.github.io/weather-app/).  
 Optimized for 📱 mobile and 🖥 desktop.
@@ -66,6 +74,8 @@ Optimized for 📱 mobile and 🖥 desktop.
 -----
 
 ## Restaurant page ☕️  
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: August 17, 2021  
 See the [live code](https://github.com/rusty-reebs/restaurant-page) on my GitHub! Browse the site [here](https://rusty-reebs.github.io/restaurant-page/).  
@@ -82,6 +92,8 @@ Best viewed on 🖥 desktop.
 
 ## Tic Tac Toe ❌⭕️❌
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 > Date completed: August 5, 2021  
 See the [live code](https://github.com/rusty-reebs/tic-tac-toe) on my GitHub! Play the game [here](https://rusty-reebs.github.io/tic-tac-toe)!  
 
@@ -93,6 +105,8 @@ See the [live code](https://github.com/rusty-reebs/tic-tac-toe) on my GitHub! Pl
 -----
 
 ## Library 📚
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: July 15, 2021  
 See the [live code](https://github.com/rusty-reebs/library) on my Github! Try it yourself [here](https://rusty-reebs.github.io/library/)!  
