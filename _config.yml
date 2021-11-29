@@ -55,8 +55,13 @@ logo: "/assets/images/html.png"
 atom_feed:
   hide: true
 
-google_analytics: "G-NKF6Z3G3Y7"
 google_site_verification: "G-NKF6Z3G3Y7"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-NKF6Z3G3Y7"
+    anonymize_ip: false
 
 defaults:
   # _posts
