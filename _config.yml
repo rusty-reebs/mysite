@@ -29,7 +29,7 @@ github_username: rusty-reebs
 author:
   name: "Russ Salonen"
   avatar: "/assets/images/profile5.jpg"
-  bio: "*You don't have to do what everyone else is doing. Dare to be different.*"
+  bio: "*Front end web developer. You don't have to do what everyone else is doing. Dare to be different.*"
   # location: "Tbilisi, Georgia"
   links:
     #  - label: "Twitter"
@@ -55,6 +55,8 @@ logo: "/assets/images/html.png"
 atom_feed:
   hide: true
 
+google_analytics: "G-NKF6Z3G3Y7"
+
 analytics:
   provider: "google-gtag"
   tracking_id: "G-NKF6Z3G3Y7"
@@ -79,6 +81,8 @@ defaults:
 
 include:
   - _pages/
+  - _includes/
+  - _layouts/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
