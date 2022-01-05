@@ -13,4 +13,4 @@ Why this blog? My intentions for this blog space are to:
 
 Still with me? Good. Who is this guy, anyway? Well, I'm Canadian 🇨🇦, in my forties, and I'm married with two kids. I like travel (we're currently based in Eastern Europe), world cuisine, electronic music, and being outside.
 
-That was short and sweet! Thanks for stopping by, and be sure to check back often for new posts and updates. You can always reach me on the little bird platform, [@rusty_reebs](https://twitter.com/rusty_reebs/).
+That was short and sweet! Thanks for stopping by, and be sure to check back often for new posts and updates.
