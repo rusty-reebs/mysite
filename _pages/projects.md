@@ -19,8 +19,8 @@ gallery:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: December 4, 2021  
-Code: [github.com/rusty-reebs/wheres-waldo](https://github.com/rusty-reebs/wheres-waldo).  
-Live site: [rusty-reebs.github.io/wheres-waldo](https://rusty-reebs.github.io/wheres-waldo).  
+Code: [github.com/rusty-reebs/wheres-waldo](https://github.com/rusty-reebs/wheres-waldo)  
+Live site: [rusty-reebs.github.io/wheres-waldo](https://rusty-reebs.github.io/wheres-waldo)  
 Optimized for&nbsp; 🖥 &nbsp;desktop and &nbsp;📱 &nbsp;landscape mobile!  
 
 This was a great project involving many practical programming skills like conditionals, asynchronous functions, and manipulating arrays. I gained a stronger understanding of React hooks like `useEffect` and how to set up and use a BaaS (Backend-as-a-Service) site, eg. Firebase.  
@@ -36,8 +36,8 @@ This was a great project involving many practical programming skills like condit
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 23, 2021  
-Code: [github.com/rusty-reebs/shopping-cart](https://github.com/rusty-reebs/shopping-cart/).  
-Live site: [rusty-reebs.github.io/shopping-cart](https://rusty-reebs.github.io/shopping-cart/).  
+Code: [github.com/rusty-reebs/shopping-cart](https://github.com/rusty-reebs/shopping-cart/)  
+Live site: [rusty-reebs.github.io/shopping-cart](https://rusty-reebs.github.io/shopping-cart/)  
 Optimized for&nbsp;📱 &nbsp;mobile and &nbsp;🖥 &nbsp;desktop!  
 
 Written in ⚛️ React.js and plain CSS. Practiced using `react-router-dom`, functional components, and hooks. I had a lot of fun coding this project! One of the biggest challenges was thinking about how to organize and manage objects that are in state.  
@@ -53,8 +53,8 @@ Written in ⚛️ React.js and plain CSS. Practiced using `react-router-dom`, fu
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 5, 2021  
-Code: [github.com/rusty-reebs/to-do-list](https://github.com/rusty-reebs/to-do-list).  
-Live site: [rusty-reebs.github.io/to-do-list](https://rusty-reebs.github.io/to-do-list/).  
+Code: [github.com/rusty-reebs/to-do-list](https://github.com/rusty-reebs/to-do-list)  
+Live site: [rusty-reebs.github.io/to-do-list](https://rusty-reebs.github.io/to-do-list/)  
 Best viewed on&nbsp; 🖥 &nbsp;desktop.  
 
 Written in plain JavaScript and plain CSS. Practiced using and manipulating dynamically-created objects in JavaScript. This was a complex project with a lot of moving parts! Also had to manage event listeners and bubbling.
@@ -70,8 +70,8 @@ Written in plain JavaScript and plain CSS. Practiced using and manipulating dyna
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 2, 2021  
-Code: [github.com/rusty-reebs/tdd-battleship](https://github.com/rusty-reebs/tdd-battleship).  
-Live site: [rusty-reebs.github.io/tdd-battleship](https://rusty-reebs.github.io/tdd-battleship/).  
+Code: [github.com/rusty-reebs/tdd-battleship](https://github.com/rusty-reebs/tdd-battleship)  
+Live site: [rusty-reebs.github.io/tdd-battleship](https://rusty-reebs.github.io/tdd-battleship/)  
 Best viewed on 🖥 desktop.  
 
 Written in plain JavaScript and plain CSS. Learned to use test-driven development with Jest. Practiced OOP principles such as the Single Responsibility Principle. (Could use more practice with this! 😅)  
@@ -85,8 +85,8 @@ Written in plain JavaScript and plain CSS. Learned to use test-driven developmen
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: October 3, 2021  
-Code: [github.com/rusty-reebs/weather-app](https://github.com/rusty-reebs/weather-app).  
-Live site: [rusty-reebs.github.io/weather-app](https://rusty-reebs.github.io/weather-app/).  
+Code: [github.com/rusty-reebs/weather-app](https://github.com/rusty-reebs/weather-app)  
+Live site: [rusty-reebs.github.io/weather-app](https://rusty-reebs.github.io/weather-app/)  
 Optimized for 📱 mobile and 🖥 desktop.
 
 Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.  
@@ -100,8 +100,8 @@ Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: August 17, 2021  
-Code: [github.com/rusty-reebs/restaurant-page](https://github.com/rusty-reebs/restaurant-page).  
-Live site: [rusty-reebs.github.io/restaurant-page](https://rusty-reebs.github.io/restaurant-page/).  
+Code: [github.com/rusty-reebs/restaurant-page](https://github.com/rusty-reebs/restaurant-page)  
+Live site: [rusty-reebs.github.io/restaurant-page](https://rusty-reebs.github.io/restaurant-page/)  
 Best viewed on 🖥 desktop.  
 
 Written in HTML, CSS, and plain JavaScript.  Learned to use ES6 modules and webpack to dynamically render pages with JavaScript.  
@@ -117,8 +117,8 @@ Written in HTML, CSS, and plain JavaScript.  Learned to use ES6 modules and webp
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: August 5, 2021  
-Code: [github.com/rusty-reebs/tic-tac-toe](https://github.com/rusty-reebs/tic-tac-toe).  
-Live site: [rusty-reebs.github.io/tic-tac-toe](https://rusty-reebs.github.io/tic-tac-toe).  
+Code: [github.com/rusty-reebs/tic-tac-toe](https://github.com/rusty-reebs/tic-tac-toe)  
+Live site: [rusty-reebs.github.io/tic-tac-toe](https://rusty-reebs.github.io/tic-tac-toe)  
 
 Written in HTML, CSS, and JavaScript. Practiced writing factory functions, methods, module patterns and IIFEs.  
 
@@ -131,8 +131,8 @@ Written in HTML, CSS, and JavaScript. Practiced writing factory functions, metho
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: July 15, 2021  
-Code: [github.com/rusty-reebs/library](https://github.com/rusty-reebs/library).  
-Live site: [rusty-reebs.github.io/library](https://rusty-reebs.github.io/library/).  
+Code: [github.com/rusty-reebs/library](https://github.com/rusty-reebs/library)  
+Live site: [rusty-reebs.github.io/library](https://rusty-reebs.github.io/library/)  
 
 Written in HTML, CSS, and JavaScript.  Practiced using JS objects, `Array.forEach()` method, `Object.keys()` method, and local storage.  
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Russell. I am a self-taught full stack developer from Canada. I am following [The Odin Project](https://theodinproject.com) curriculum to learn web development.
+Hi, I'm Russell. I am a self-taught full stack developer from 🇨🇦&nbsp;Canada. I am following [The Odin Project](https://theodinproject.com) curriculum to learn web development.
 
 My developer career intentions are to:
 
