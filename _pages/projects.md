@@ -13,6 +13,21 @@ gallery:
    title: "Tic Tac Toe Screenshot"
 ---
 
+## Tweeter &nbsp;🦜&nbsp;-- a Twitter clone
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+> Date completed: January 8, 2022  
+Code: [github.com/rusty-reebs/twitter-clone](https://github.com/rusty-reebs/twitter-clone)  
+Live site: [tweeter-rusty-reebs.netlify.app](https://tweeter-rusty-reebs.netlify.app)  
+Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
+
+Building on my previous experience, this project added some extra complexities like user authentication and a serverless backend function to call the Twitter API. Plus the usual fun stuff like async functions, conditional rendering, and the `useState`/`useEffect` hooks. Try out its interactive features!
+
+<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-1.png" alt="screenshot" style="height: 400px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-2.png" alt="screenshot" style="height: 400px;"></a>
+
+----
+
 ## Where's Waldo&nbsp; 🔎&nbsp; photo-tagging app
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
