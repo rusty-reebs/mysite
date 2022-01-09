@@ -24,7 +24,7 @@ Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!
 
 Building on my previous experience, this project added some extra complexities like user authentication and a serverless backend function to call the Twitter API. Plus the usual fun stuff like async functions, conditional rendering, and the `useState`/`useEffect` hooks. Try out its interactive features!
 
-<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-1.png" alt="screenshot" style="height: 400px;"></a>  <a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-2.png" alt="screenshot" style="height: 400px;"></a>
+<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-border1.png" alt="screenshot" style="height: 400px;"></a>  <a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-border2.png" alt="screenshot" style="height: 400px;"></a>
 
 ----
 
