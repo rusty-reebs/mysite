@@ -13,18 +13,18 @@ gallery:
    title: "Tic Tac Toe Screenshot"
 ---
 
-## Tweeter &nbsp;🦜&nbsp;-- a Twitter clone
+## Tweeter social media app&nbsp;🦜
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: January 8, 2022  
-Code: [github.com/rusty-reebs/twitter-clone](https://github.com/rusty-reebs/twitter-clone)  
+Code repo: [github.com/rusty-reebs/twitter-clone](https://github.com/rusty-reebs/twitter-clone)  
 Live site: [tweeter-rusty-reebs.netlify.app](https://tweeter-rusty-reebs.netlify.app)  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
 Building on my previous experience, this project added some extra complexities like user authentication and a serverless backend function to call the Twitter API. Plus the usual fun stuff like async functions, conditional rendering, and the `useState`/`useEffect` hooks. Try out its interactive features!
 
-<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-1.png" alt="screenshot" style="height: 400px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-2.png" alt="screenshot" style="height: 400px;"></a>
+<a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-1.png" alt="screenshot" style="height: 400px;"></a>  <a href="https://tweeter-rusty-reebs.netlify.app"><img src="/assets/images/tweeter-2.png" alt="screenshot" style="height: 400px;"></a>
 
 ----
 
@@ -34,7 +34,7 @@ Building on my previous experience, this project added some extra complexities l
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: December 4, 2021  
-Code: [github.com/rusty-reebs/wheres-waldo](https://github.com/rusty-reebs/wheres-waldo)  
+Code repo: [github.com/rusty-reebs/wheres-waldo](https://github.com/rusty-reebs/wheres-waldo)  
 Live site: [rusty-reebs.github.io/wheres-waldo](https://rusty-reebs.github.io/wheres-waldo)  
 Optimized for&nbsp; 🖥 &nbsp;desktop and &nbsp;📱 &nbsp;landscape mobile!  
 
@@ -51,7 +51,7 @@ This was a great project involving many practical programming skills like condit
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 23, 2021  
-Code: [github.com/rusty-reebs/shopping-cart](https://github.com/rusty-reebs/shopping-cart/)  
+Code repo: [github.com/rusty-reebs/shopping-cart](https://github.com/rusty-reebs/shopping-cart/)  
 Live site: [rusty-reebs.github.io/shopping-cart](https://rusty-reebs.github.io/shopping-cart/)  
 Optimized for&nbsp;📱 &nbsp;mobile and &nbsp;🖥 &nbsp;desktop!  
 
@@ -68,7 +68,7 @@ Written in ⚛️ React.js and plain CSS. Practiced using `react-router-dom`, fu
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 5, 2021  
-Code: [github.com/rusty-reebs/to-do-list](https://github.com/rusty-reebs/to-do-list)  
+Code repo: [github.com/rusty-reebs/to-do-list](https://github.com/rusty-reebs/to-do-list)  
 Live site: [rusty-reebs.github.io/to-do-list](https://rusty-reebs.github.io/to-do-list/)  
 Best viewed on&nbsp; 🖥 &nbsp;desktop.  
 
@@ -85,7 +85,7 @@ Written in plain JavaScript and plain CSS. Practiced using and manipulating dyna
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: November 2, 2021  
-Code: [github.com/rusty-reebs/tdd-battleship](https://github.com/rusty-reebs/tdd-battleship)  
+Code repo: [github.com/rusty-reebs/tdd-battleship](https://github.com/rusty-reebs/tdd-battleship)  
 Live site: [rusty-reebs.github.io/tdd-battleship](https://rusty-reebs.github.io/tdd-battleship/)  
 Best viewed on 🖥 desktop.  
 
@@ -100,7 +100,7 @@ Written in plain JavaScript and plain CSS. Learned to use test-driven developmen
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: October 3, 2021  
-Code: [github.com/rusty-reebs/weather-app](https://github.com/rusty-reebs/weather-app)  
+Code repo: [github.com/rusty-reebs/weather-app](https://github.com/rusty-reebs/weather-app)  
 Live site: [rusty-reebs.github.io/weather-app](https://rusty-reebs.github.io/weather-app/)  
 Optimized for 📱 mobile and 🖥 desktop.
 
@@ -115,7 +115,7 @@ Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: August 17, 2021  
-Code: [github.com/rusty-reebs/restaurant-page](https://github.com/rusty-reebs/restaurant-page)  
+Code repo: [github.com/rusty-reebs/restaurant-page](https://github.com/rusty-reebs/restaurant-page)  
 Live site: [rusty-reebs.github.io/restaurant-page](https://rusty-reebs.github.io/restaurant-page/)  
 Best viewed on 🖥 desktop.  
 
@@ -132,7 +132,7 @@ Written in HTML, CSS, and plain JavaScript.  Learned to use ES6 modules and webp
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: August 5, 2021  
-Code: [github.com/rusty-reebs/tic-tac-toe](https://github.com/rusty-reebs/tic-tac-toe)  
+Code repo: [github.com/rusty-reebs/tic-tac-toe](https://github.com/rusty-reebs/tic-tac-toe)  
 Live site: [rusty-reebs.github.io/tic-tac-toe](https://rusty-reebs.github.io/tic-tac-toe)  
 
 Written in HTML, CSS, and JavaScript. Practiced writing factory functions, methods, module patterns and IIFEs.  
@@ -146,7 +146,7 @@ Written in HTML, CSS, and JavaScript. Practiced writing factory functions, metho
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 > Date completed: July 15, 2021  
-Code: [github.com/rusty-reebs/library](https://github.com/rusty-reebs/library)  
+Code repo: [github.com/rusty-reebs/library](https://github.com/rusty-reebs/library)  
 Live site: [rusty-reebs.github.io/library](https://rusty-reebs.github.io/library/)  
 
 Written in HTML, CSS, and JavaScript.  Practiced using JS objects, `Array.forEach()` method, `Object.keys()` method, and local storage.  
