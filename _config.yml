@@ -87,6 +87,7 @@ include:
   - _includes/
   - _layouts/
   - assets/
+  - _sass/minimal-mistakes/*.scss
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
