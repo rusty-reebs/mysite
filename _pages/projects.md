@@ -13,16 +13,31 @@ gallery:
    title: "Tic Tac Toe Screenshot"
 ---
 
+## Members Clubhouse authentication app&nbsp;👥
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+> Date completed: February 5, 2022  
+Code repo: [github.com/rusty-reebs/members-clubhouse](https://github.com/rusty-reebs/members-clubhouse)  
+Live site: [clubhouse-rusty-reebs.herokuapp.com](https://clubhouse-rusty-reebs.herokuapp.com)  
+Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
+
+This fun message board app explores user authentication, permissions, and security with PassportJS, localStrategy, express-session, bcryptJS, and `.env` files. After becoming a member, users are able to see the previously blurred-out content and make public posts. Styling was a breeze with Tailwind! 👍👍
+
+<a href="https://clubhouse-rusty-reebs.herokuapp.com"><img src="/assets/images/clubhouse-1.png" alt="screenshot" style="height:400px;"></a>&nbsp;&nbsp;<a href="https://clubhouse-rusty-reebs.herokuapp.com"><img src="/assets/images/clubhouse-2.png" alt="screenshot" style="height:400px;"></a>&nbsp;&nbsp;<a href="https://clubhouse-rusty-reebs.herokuapp.com"><img src="/assets/images/clubhouse-3.png" alt="screenshot" style="height:400px;"></a> 
+
+----
+
 ## Cycle Logical CRUD app&nbsp;🚵‍♂️
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 > Date completed: January 29, 2022  
 Code repo: [github.com/rusty-reebs/inventory-app](https://github.com/rusty-reebs/inventory-app)  
 Live site: [crud-app-rusty-reebs.herokuapp.com](https://crud-app-rusty-reebs.herokuapp.com)  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
-Utilizing the MVC (Model, View, Controller) design pattern, this Node app allows the user to perform CRUD (Create, Read, Update, Delete) operations with a backend NoSQL database. I also implemented image uploading via the Cloudinary API and used Bootstrap for responsive styling.
+Utilizing the MVC (Model, View, Controller) design pattern, this Express app allows the user to perform CRUD (Create, Read, Update, Delete) operations with a backend NoSQL database. I also implemented image uploading via the Cloudinary API and used Bootstrap for responsive styling.
 
 <a href="https://crud-app-rusty-reebs.herokuapp.com"><img src="/assets/images/inventory-1.jpg" alt="screenshot" style="max-width: 350px;"></a>&nbsp;&nbsp;<a href="https://crud-app-rusty-reebs.herokuapp.com"><img src="/assets/images/inventory-2.jpg" alt="screenshot" style="max-width: 350px;"></a>  
 
