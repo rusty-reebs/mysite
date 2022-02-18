@@ -3,15 +3,14 @@ layout: post
 title:  "Title"
 categories: 
 ---
-Carrying on with Node.js
 
-Last week I started applying for developer positions. 🙌 There are **so many** out there! The employment situation looks *very* promising and I definitely feel that I made the right decision to invest my time and energy into learning this profession. Right now I'm mainly focused on front-end roles because that's what I am the most comfortable with and feel as though I can begin contributing right away. Although, with the programming principles I've learned by designing, planning, and implementing my personal projects so far, (and not just coding along with tutorials), I believe that I could pick up new frameworks and/or technologies fairly quickly. 😃
+Not REST-ing, building APIs
 
-To keep moving towards becoming a well-rounded, versatile developer I'm building projects on the back-end track in Node.js, Express.js, and MongoDB. 
+In between applying for jobs, I've been building a full stack, real world web application. 😃 It's a worldwide listing of worldschooling pop ups, or events. *Wait, what's worldschooling?* You can read about it at [weareworldschoolers.org](https://weareworldschoolers.org/resources/what-is-worldschooling/). 
 
->Code => Browse jobs => Apply for jobs => Repeat
+⬅️ Back to the app. It's built on a REST API-only backend, written with Node and Express. The frontend is coded in React. Users can see a listing of events, read details about events, and post their own pop up events. I've also incorporated the Google Maps API to locate the events globally and locally. Search features are also planned... the possibilties are endless! Here are a couple of sneak peek screenshots -- I plan to publish the site by the end of the month. The domain, which I bought for cheap at [namecheap.com](https://namecheap.com), is [worldschoolingpopups.com](https://worldschoolingpopups.com). 
 
-I'll keep you posted! 🎯
+
 
 
 
