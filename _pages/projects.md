@@ -13,6 +13,24 @@ gallery:
    title: "Tic Tac Toe Screenshot"
 ---
 
+## *worldschoolingpopups.com* REST API&nbsp;🌏
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+> Date completed: March 3, 2022  
+Frontend repo: [github.com/rusty-reebs/worldschoolingpopups-front](https://github.com/rusty-reebs/worldschoolingpopups-front)  
+Backend repo: [github.com/rusty-reebs/worldschoolingpopups](https://github.com/rusty-reebs/worldschoolingpopups)  
+Live site: [https://worldschoolingpopups.com](https://worldschoolingpopups.com)  
+Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
+
+Filling a need for a central listing of worldschooling events, this REST API is built in Express. It features JSON web token (jwt) authentication in the form of a header cookie. All users can browse events while only registered users can post events to the API. The React frontend also features conditional rendering for optional information such as excursions and age range. Maps and image handling are provided via the Google Maps and Cloudinary APIs, respectively.  
+
+<a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-1.jpg" alt="screenshot" style="max-width:350px;"></a>&nbsp;&nbsp;<a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-2.jpg" alt="screenshot" style="max-width:350px;"></a>  
+
+<a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-3.jpg" alt="screenshot" style="max-width:350px;"></a>&nbsp;&nbsp;<a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-4.jpg" alt="screenshot" style="max-width:350px;"></a>  
+
+----
+
 ## Members Clubhouse authentication app&nbsp;👥
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
