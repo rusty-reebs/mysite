@@ -23,7 +23,7 @@ Backend repo: [github.com/rusty-reebs/worldschoolingpopups](https://github.com/r
 Live site: [https://worldschoolingpopups.com](https://worldschoolingpopups.com)  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
-Filling a need for a central listing of worldschooling events, this REST API is built in Express. It features a public frontend where all users can browse events, and a separate admin frontend with JSON web token (JWT) authentication in the form of a header cookie. I also used React to conditionally render optional information such as excursions and age range. Maps and image handling are provided via the Google Maps and Cloudinary APIs, respectively.  
+Filling a need for a central listing of worldschooling events, this REST API is built in Express. It features an AirBnB-style public frontend where users can browse events, and a separate admin frontend with JSON web token (JWT) authentication in the form of a header cookie. I also used React to conditionally render optional information such as excursions and age range. Maps and image handling are provided via the Google Maps and Cloudinary APIs, respectively.  
 
 <a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-1.jpg" alt="screenshot" style="max-width:350px;"></a>&nbsp;&nbsp;<a href="https://worldschoolingpopups.com"><img src="/assets/images/worldschooling-2.jpg" alt="screenshot" style="max-width:350px;"></a>  
 
