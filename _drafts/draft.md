@@ -9,6 +9,9 @@ what I'm working on
 job search
 posting worldschoolingpopups on FB
 
+Achievement Unlocked!
+
+I'm happy to report that I accepted my first full stack web developer position and have been working remotely full time for almost two months! 🤩🎉 I'm part of a small team that is building version 3.0 of a medical records portal. We're coding it in React/Next.js, Express, and MongoDB. It's basically the exact tech stack that I learned in [The Odin Project](https://theodinproject.com), so I'm pretty stoked about that.
 
 Tinkering
 
