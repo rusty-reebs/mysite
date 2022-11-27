@@ -52,7 +52,7 @@ This fun message board app explores user authentication, permissions, and securi
 
 > Date completed: January 29, 2022  
 Code repo: [github.com/rusty-reebs/inventory-app](https://github.com/rusty-reebs/inventory-app)  
-Live site: [crud-app-rusty-reebs.herokuapp.com](https://crud-app-rusty-reebs.herokuapp.com)  
+Live site: *Currently under maintenance.*  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
 Utilizing the MVC (Model, View, Controller) design pattern, this Express app allows the user to perform CRUD (Create, Read, Update, Delete) operations with a backend NoSQL database. I also implemented image uploading via the Cloudinary API and used Bootstrap for responsive styling.
