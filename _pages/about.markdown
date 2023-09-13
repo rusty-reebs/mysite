@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Russell. I am a self-taught full stack developer from 🇨🇦&nbsp;Canada. I am currently looking for a role as a software engineer, front end developer, or full stack developer.
+Hi, I'm Russell. I am a self-taught full stack developer from 🇨🇦&nbsp;Canada.
 
 My developer career intentions are to:
 
-* work fully remote,
 * be part of a fun and dynamic team,
 * contribute to meaningful projects,
 * continuously advance my programming skills and become better every day.
