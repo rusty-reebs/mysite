@@ -15,7 +15,7 @@ gallery:
 
 ## *worldschoolingpopups.com* &nbsp;🌏
 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 > Date completed: March 3, 2022  
 > Date updated: August 12, 2023  
@@ -23,7 +23,7 @@ Repo: [github.com/rusty-reebs/worldschoolingpopups-next](https://github.com/rust
 Live site: [https://worldschoolingpopups.com](https://worldschoolingpopups.com)  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
-Note: updated in 2023 to Next.js for static site generation and incremental static regeneration with a Supabase backend.
+**New:** updated in 2023 to Next.js for static site generation (SSG) and incremental static regeneration (ISR) with a Supabase backend.
 
 Filling a need for a central listing of worldschooling events, this REST API is built in Express. It features an AirBnB-style public frontend where users can browse events, and a separate admin frontend with JSON web token (JWT) authentication in the form of a header cookie. I also used React to conditionally render optional information such as excursions and age range. Maps and image handling are provided via the Google Maps and Cloudinary APIs, respectively.  
 
@@ -71,7 +71,7 @@ Utilizing the MVC (Model, View, Controller) design pattern, this Express app all
 
 > Date completed: January 8, 2022  
 Code repo: [github.com/rusty-reebs/twitter-clone](https://github.com/rusty-reebs/twitter-clone)  
-Live site: *Not available due to new Twitter API policy 😪* 
+Live site: *Not available due to new Twitter API policy* 😪  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
 Building on my previous experience, this project added some extra complexities like user authentication and a serverless backend function to call the Twitter API. Plus the usual fun stuff like async functions, conditional rendering, and the `useState`/`useEffect` hooks. Try out its interactive features!
