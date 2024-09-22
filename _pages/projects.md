@@ -39,7 +39,7 @@ Filling a need for a central listing of worldschooling events, this REST API is 
 
 > Date completed: February 5, 2022  
 Code repo: [github.com/rusty-reebs/members-clubhouse](https://github.com/rusty-reebs/members-clubhouse)  
-Live site: [comfortable-hare-pantyhose.cyclic.app/](https://comfortable-hare-pantyhose.cyclic.app/)  
+Live site: *Currently under maintenance.*  
 Optimized for 📱 &nbsp;mobile and&nbsp; 🖥 &nbsp;desktop!  
 
 This fun message board app explores user authentication, permissions, and security with PassportJS, localStrategy, express-session, bcryptJS, and `.env` files. After becoming a member, users are able to see the previously blurred-out content and make public posts. Styling was a breeze with Tailwind! 👍👍
@@ -153,7 +153,7 @@ Written in plain JavaScript and plain CSS. Learned to use test-driven developmen
 
 > Date completed: October 3, 2021  
 Code repo: [github.com/rusty-reebs/weather-app](https://github.com/rusty-reebs/weather-app)  
-Live site: [rusty-reebs.github.io/weather-app](https://rusty-reebs.github.io/weather-app/)  
+Live site: *Currently under maintenance.*  
 Optimized for 📱 mobile and 🖥 desktop.
 
 Written in plain JavaScript and plain CSS. Learned to use APIs and asynchronous functions in JavaScript. Processed all time data myself without libraries. Also used CSS media queries for responsiveness.  
